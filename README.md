@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hello World!! I'm a computer vision enthusiast passionate about using deep learning to solve real-world challenges. From building a breast cancer detection model to competing in Kaggle challenges, I love exploring the endless possibilities of AI and innovation! Always eager to learn, create, and innovate in the world of deep learning!📫 How to reach me? <strong>saraamhanw@gmail.com</strong></p>
+<p align="left">Hello World!! I'm a computer vision enthusiast passionate about using deep learning to solve real-world challenges. From building a breast cancer detection model to competing in Kaggle challenges, I love exploring the endless possibilities of AI and innovation! Always eager to learn, create, and innovate in the world of deep learning!📫 How to reach me?   <a href="saraamhanw@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="15" alt="gmail logo"  />
+  </a></p>
 
 <h3 align="left">Other Platforms...</h3>
 
