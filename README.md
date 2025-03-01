@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sara and I'm an Artificial Intelligence Engineer, from Syria</h2>
+<h2 align="left">Hi 👋! My name is Sara and I'm an Artificial Intelligence Engineer</h2>
 
 ###
 
