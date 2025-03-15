@@ -93,4 +93,5 @@
 
 <img src="https://raw.githubusercontent.com/purple86a/purple86a/output/snake.svg" alt="Snake animation" />
 
+
 ###
