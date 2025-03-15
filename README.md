@@ -91,6 +91,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/purple86a/purple86a/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/purple86a/purple86a/output/snake.svg" alt="Snake animation" />
 
 ###
