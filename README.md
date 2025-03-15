@@ -26,8 +26,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purple86a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purple86a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=purple86a&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purple86a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -88,8 +88,9 @@
 </div>
 
 ###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/purple86a/purple86a/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/purple86a/purple86a/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
