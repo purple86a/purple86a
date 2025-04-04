@@ -25,11 +25,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purple86a&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purple86a&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+<a href="https://github.com/purple86a">
+  <p align="center">
+        <img src="https://github-stats-alpha.vercel.app/api?username=purple86a&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </p>
+</a>
  
 ###
 
