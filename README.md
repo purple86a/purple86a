@@ -3,7 +3,7 @@
 ###
 
 <p style="text-align: left;">
-  Hello World!! I'm a computer vision enthusiast passionate about using deep learning to solve real-world challenges. From building a breast cancer detection model to competing in Kaggle challenges, I love exploring the endless possibilities of AI and innovation! Always eager to learn, create, and innovate in the world of deep learning!
+  Hello World!! I'm a computer vision enthusiast passionate about using deep learning to solve real-world challenges. From building a breast cancer detection model to competing in Kaggle challenges, I love exploring the endless possibilities of AI and innovation! Always eager to learn, create, and innovate in the world of deep learning! School account @PURPLEWATER00
       📫 How to reach me?
     <div align="center">
       <a href="mailto:saraamhanw@gmail.com" target="_blank">
