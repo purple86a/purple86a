@@ -27,7 +27,7 @@
 
 <a href="https://github.com/purple86a">
   <p align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=purple86a&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+        <img src="https://github-stats-alpha.vercel.app/api?username=purple86a&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> 
   </p>
 </a>
  
