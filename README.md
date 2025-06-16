@@ -27,7 +27,8 @@
 
 <a href="https://github.com/purple86a">
   <p align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=purple86a&cc=22272e&tc=37BCF6&ic=fff&bc=0000"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=purple86a&theme=radical&show_icons=true&hide_border=true&count_private=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=purple86a&theme=radical&hide_border=true">
   </p>
 </a>
  
