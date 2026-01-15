@@ -25,12 +25,9 @@
 
 ###
 
-<a href="https://github.com/purple86a">
-  <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=purple86a&theme=radical&show_icons=true&hide_border=true&count_private=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=purple86a&theme=radical&hide_border=true">
-  </p>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=purple86a&theme=aurora" />
+</p>
  
 ###
 
@@ -95,5 +92,9 @@
 
 <img src="https://raw.githubusercontent.com/purple86a/purple86a/output/snake.svg" alt="Snake animation" />
 
-
 ###
+<h2> Newest repo! \\^o^/ </h2>
+<p align="center">
+  <img src=https://github-readme-stats.tuhidulhossain.com/api/pin?username=purple86a&repo=tkinter-app-auto-update&theme=aurora />
+</p>
+
