@@ -95,6 +95,6 @@
 ###
 <h2> Newest repo! \\^o^/ </h2>
 <p align="center">
-  <img src=https://github-readme-stats.tuhidulhossain.com/api/pin?username=purple86a&repo=tkinter-app-auto-update&theme=aurora />
+  <a href="https://github.com/purple86a/tkinter-app-auto-update.git"><img src=https://github-readme-stats.tuhidulhossain.com/api/pin?username=purple86a&repo=tkinter-app-auto-update&theme=aurora /></a>
 </p>
 
