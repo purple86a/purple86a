@@ -93,7 +93,7 @@
 <img src="https://raw.githubusercontent.com/purple86a/purple86a/output/snake.svg" alt="Snake animation" />
 
 ###
-<h2> Newest repo! \\^o^/ </h2>
+<h2> Newest repo! \^o^/ </h2>
 <p align="center">
   <a href="https://github.com/purple86a/tkinter-app-auto-update.git"><img src=https://github-readme-stats.tuhidulhossain.com/api/pin?username=purple86a&repo=tkinter-app-auto-update&theme=aurora /></a>
 </p>
